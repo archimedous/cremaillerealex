@@ -20,20 +20,22 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
 }
 
 h1 {
   display: block;
   font-family: 'coolveticaregular';
+  height: 75;
 }
 
 h2 {
   display: block;
   font-family: 'coolveticaregular';
+  height: 100;
 }
 
 h3 {
   display: block;
   font-family: 'coolveticaregular_italic';
+  height: 125;
 }
