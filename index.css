@@ -21,26 +21,27 @@ h1 {
   position: fixed;
   top: 50%;
   bottom: 50%;
-  left: 25%;
-  right: 25%;
+  left: 50%;
+  right: 50%;
+  white-space: nowrap;
 }
 
 h2 {
-  height: 100%;
-  width: 100%;
-  display: flex;
+  font-family: 'coolveticaregular';
   position: fixed;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+  top: 75%;
+  bottom: 25%;
+  left: 50%;
+  right: 50%;
+  white-space: nowrap;
 }
 
 h3 {
   font-family: 'coolveticaregular_italic';
-  height: 150%;
-  width: 100%;
-  display: flex;
   position: fixed;
-  align-items: center;
-  justify-content: center;
+  top: 100%;
+  bottom: 0%;
+  left: 50%;
+  right: 50%;
+  white-space: nowrap;
 }
