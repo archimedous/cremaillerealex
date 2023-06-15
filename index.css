@@ -28,6 +28,7 @@ h1 {
 }
 
 h2 {
+  font-family: 'coolveticaregular';
   height: 100%;
   width: 100%;
   display: flex;
@@ -38,6 +39,7 @@ h2 {
 }
 
 h3 {
+  font-family: 'coolveticaregular_italic';
   height: 150%;
   width: 100%;
   display: flex;
