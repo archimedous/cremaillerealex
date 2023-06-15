@@ -26,16 +26,19 @@ h1 {
   display: block;
   font-family: 'coolveticaregular';
   height: 75%;
+  text-align: center;
 }
 
 h2 {
   display: block;
   font-family: 'coolveticaregular';
   height: 100%;
+  text-align: center;
 }
 
 h3 {
   display: block;
   font-family: 'coolveticaregular_italic';
   height: 125%;
+  text-align: center;
 }
