@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'coolveticaregular_italic';
-    src: url('coolvetica_rg_it-webfont.woff2') format('woff2'),
-         url('coolvetica_rg_it-webfont.woff') format('woff');
+    src: url('webfontkit/coolvetica_rg_it-webfont.woff2') format('woff2'),
+         url('webfontkit/coolvetica_rg_it-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'coolveticaregular';
-    src: url('coolvetica_rg-webfont.woff2') format('woff2'),
-         url('coolvetica_rg-webfont.woff') format('woff');
+    src: url('webfontkit/coolvetica_rg-webfont.woff2') format('woff2'),
+         url('webfontkit/coolvetica_rg-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
