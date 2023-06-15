@@ -24,13 +24,16 @@ body {
 }
 
 h1 {
+  display: block;
   font-family: 'coolveticaregular';
 }
 
 h2 {
+  display: block;
   font-family: 'coolveticaregular';
 }
 
 h3 {
+  display: block;
   font-family: 'coolveticaregular_italic';
 }
