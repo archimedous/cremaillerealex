@@ -18,12 +18,9 @@
 
 h1 {
   font-family: 'coolveticaregular';
-  height: 50%;
-  width: 100%;
-  display: flex;
-  position: fixed;
-  align-items: center;
-  justify-content: center;
+  height: 400px;
+  width: 800px;
+  line-height: 400px;
   text-align: center;
 }
 
