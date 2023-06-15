@@ -24,24 +24,27 @@ h1 {
   left: 50%;
   right: 50%;
   white-space: nowrap;
+  text-align: center;
 }
 
 h2 {
   font-family: 'coolveticaregular';
   position: fixed;
-  top: 75%;
-  bottom: 25%;
+  top: 60%;
+  bottom: 40%;
   left: 50%;
   right: 50%;
   white-space: nowrap;
+  text-align: center;
 }
 
 h3 {
   font-family: 'coolveticaregular_italic';
   position: fixed;
-  top: 100%;
-  bottom: 0%;
+  top: 70%;
+  bottom: 30%;
   left: 50%;
   right: 50%;
   white-space: nowrap;
+  text-align: center;
 }
