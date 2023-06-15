@@ -37,8 +37,7 @@ h2 {
 h3 {
   display: flex;
   align-items: center;
-  font-family: 'coolveticaregular';
+  font-family: 'coolveticaregular_italic';
   height: 45%;
   justify-content: center;
-  text-align: center;
 }
