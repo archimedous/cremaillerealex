@@ -18,8 +18,8 @@
 
 body {
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
 }
 
 h1 {
@@ -40,5 +40,4 @@ h3 {
   display: block;
   font-family: 'coolveticaregular_italic';
   height: 125%;
-  text-align: center;
 }
